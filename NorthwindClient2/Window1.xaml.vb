@@ -35,6 +35,7 @@ Public Class Window1
     End Sub
 
     Private Sub buttonClose_Click(sender As Object, e As RoutedEventArgs) Handles buttonClose.Click
+        MsgBox("are you sure you want to close?")
         Me.Close()
     End Sub
 
