@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NorthwindService", "service\NorthwindService.vbproj", "{5D1EA7BA-E1D1-4C63-88E7-DF56D7DED9B6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NorthwindClient2", "NorthwindClient2\NorthwindClient2.vbproj", "{113BFEE4-B833-458B-AA57-4B162575833B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1EA7BA-E1D1-4C63-88E7-DF56D7DED9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1EA7BA-E1D1-4C63-88E7-DF56D7DED9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1EA7BA-E1D1-4C63-88E7-DF56D7DED9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1EA7BA-E1D1-4C63-88E7-DF56D7DED9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113BFEE4-B833-458B-AA57-4B162575833B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113BFEE4-B833-458B-AA57-4B162575833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113BFEE4-B833-458B-AA57-4B162575833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113BFEE4-B833-458B-AA57-4B162575833B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
